@@ -1,25 +1,3 @@
-x.y.z Release notes (yyyy-MM-dd)
-=============================================================
-### Enhancements
-* None.
-
-### Fixed
-* <How to hit and notice issue? what was the impact?> ([#????](https://github.com/realm/realm-swift/issues/????), since v?.?.?)
-* `@AutoOpen` and `@AsyncOpen` failed to use the `initialSubscriptions` set in
-  the configuration passed to them ([PR #8572](https://github.com/realm/realm-swift/pull/8572), since v10.50.0).
-
-<!-- ### Breaking Changes - ONLY INCLUDE FOR NEW MAJOR version -->
-
-### Compatibility
-* Realm Studio: 15.0.0 or later.
-* APIs are backwards compatible with all previous releases in the 10.x.y series.
-* Carthage release for Swift is built with Xcode 15.3.0.
-* CocoaPods: 1.10 or later.
-* Xcode: 15.1.0-15.3.0.
-
-### Internal
-* Upgraded realm-core from ? to ?
-
 10.50.0 Release notes (2024-05-02)
 =============================================================
 
